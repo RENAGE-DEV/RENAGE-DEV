@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/72b12d94-bb63-47ce-994c-c513fb2c74e2)
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Diego González Hood</h1>
 <h3 align="center">About Me I am a Senior HSEC Engineer with over 12 years of experience. Currently, I am finishing a Ruby on Rails bootcamp focused on startup-style ventures, where I am developing my skills in Ruby on Rails, CSS, HTML, JavaScript, Git, PostgreSQL, and Postman. I am transitioning into the world of web development, combining my prior professional experience with a solid foundation in modern technologies to create innovative and scalable solutions. I am passionate about programming and the opportunities it provides to solve real-world problems and turn ideas into successful projects.</h3>
 
